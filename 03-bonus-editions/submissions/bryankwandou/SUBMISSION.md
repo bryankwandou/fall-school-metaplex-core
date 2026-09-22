@@ -1,6 +1,6 @@
 # Bonus Challenge Submission
 
-- Name / GitHub handle: Bryan Kwandou / bryankwandou
+- Name / GitHub handle: Bryan Kwandou (nayrbryanGaming) / bryankwandou
 - Collection (MasterEdition): https://explorer.solana.com/address/7PVjJg7cajEznTqum7HpXA3TpDgUgmLRzNVMfxksVNkT?cluster=devnet
 - Edition #1 (royalty 2.5%): https://explorer.solana.com/address/32Y3YdfPiNgqNgdbJurMPe8FbfVbDpN4P58tBDtsVqZv?cluster=devnet
 - Edition #2 (royalty 5%): https://explorer.solana.com/address/AHiLruSTg4ZLscBKH3pztrHKt6ytKYkiYLMXASCEj19Q?cluster=devnet
